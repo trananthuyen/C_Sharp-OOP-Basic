@@ -1,0 +1,14 @@
+C:\C Sharp Learn\Main\bin\Debug\net8.0\Main.exe
+C:\C Sharp Learn\Main\bin\Debug\net8.0\Main.deps.json
+C:\C Sharp Learn\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\C Sharp Learn\Main\bin\Debug\net8.0\Main.dll
+C:\C Sharp Learn\Main\bin\Debug\net8.0\Main.pdb
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.dll
+C:\C Sharp Learn\Main\obj\Debug\net8.0\refint\Main.dll
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.pdb
+C:\C Sharp Learn\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\C Sharp Learn\Main\obj\Debug\net8.0\ref\Main.dll
